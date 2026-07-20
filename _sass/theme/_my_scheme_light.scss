@@ -1,22 +1,33 @@
 /* ==========================================================================
-    MY_SCHEME THEME - LIGHT VERSION
-    Based on the AIR theme defaults.
+    MY_SCHEME THEME - 網站固定使用暗色。
+    這個檔是「預設」配色，內容已設成暗色，所以不論訪客的系統是亮或暗，
+    網站都會顯示暗色（搭配已移除的切換鈕）。
+    ------------------------------------------------------------------------
+    想改顏色，只要改下面這幾個色碼即可：
+      $background  = 整體背景色
+      $text        = 一般內文顏色
+      $header-h1   = 大標題（======）顏色
+      $header      = 小標題與著作標題（------ / ###）顏色
+      $strong      = 粗體字顏色
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0092ca;
+$primary-color              : #00adb5;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 
-$background                 : #eeeeee;
+$background                 : #023047;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #222831;
-$link                       : #393e46;
+$text                       : #eaeaea;
+$header-h1                  : #FB8500;
+$header                     : #219ebc;
+$strong                     : #FA7900;
+$link                       : mix($primary-color, $text, 40%);
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
-$footer                     : $primary-color;
+$footer                     : mix(#000, $background, 30%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -35,7 +46,7 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Light theme for the site */
+/* 預設（:root）＝暗色，讓網站永遠是暗色 */
 :root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
@@ -50,6 +61,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-visited         : #{$link-light};
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$primary-color};
+    --global-h1-color                   : #{$header-h1};
+    --global-header-color               : #{$header};
+    --global-strong-color               : #{$strong};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};

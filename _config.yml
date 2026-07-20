@@ -18,9 +18,8 @@ url                      : https://Jun00332211.github.io # The base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jun00332211/Jun00332211.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# ★ 左邊側欄（姓名、簡介、地點、單位、Email、社群）請改：_data/profile.yml
+#   這下面這一大段是網站內部設定，平常不用動。
 author:
   # Biographic information
   avatar           : "profile.png"   # 頭像：把你的照片命名為 profile.png 放進 images/ 資料夾即可替換（目前是預留的空白佔位圖）
@@ -30,7 +29,7 @@ author:
   location         : "臺灣"
   employer         : "中央研究院民族學研究所"
   uri              : # URL
-  email            : "christina878979@gmail.com"
+  email            : "wjl00332211@gmail.com"
 
   # Academic websites
   academia         : # URL

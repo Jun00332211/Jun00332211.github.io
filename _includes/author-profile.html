@@ -1,8 +1,6 @@
 {% include base_path %}
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
+{% if page.url contains '/en' %}{% assign author = site.data.profile_en %}{% else %}{% assign author = site.data.profile %}{% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
 

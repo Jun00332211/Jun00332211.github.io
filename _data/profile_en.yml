@@ -1,0 +1,15 @@
+# ============================================================
+# 英文頁 (/en/) 左邊側欄的資料，改這一個檔就好。
+# 中文頁的側欄請改 profile.yml；兩個檔各管一種語言。
+# ============================================================
+
+avatar:   "profile.png"                                   # 大頭照（和中文頁共用同一張）
+name:     "Lo Wen-chun"                                   # 姓名（英文）
+bio:      "Anthropology · Taiwan History · Archival Research"   # 簡介（英文）
+location: "Taiwan"                                        # 地點
+employer: "Institute of Information Science, Academia Sinica"   # 服務單位
+email:    "wjl00332211@gmail.com"                        # Email
+
+# --- 社群連結：填帳號就會出現圖示，整行前面加 # 就不顯示 ---
+# github:    "Jun00332211"
+instagram: "utter00332211"
