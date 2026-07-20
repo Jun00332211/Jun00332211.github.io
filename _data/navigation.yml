@@ -3,5 +3,7 @@
 # 把某組刪掉或註解掉（前面加 #），該連結就不會出現在選單。
 
 main:
-  - title: "論著 Publications"
-    url: /publications/
+  # 著作已直接放在首頁，所以不再需要單獨的 Publications 選單連結。
+  # 若日後想恢復獨立分頁，把下面兩行前面的 # 拿掉即可：
+  # - title: "論著 Publications"
+  #   url: /publications/
