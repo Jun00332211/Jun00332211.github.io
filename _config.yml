@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "my_scheme" # The available themes options are "default", "air", "my_scheme", "sunrise", "mint", "dirt" and "contrast"
-title                    : "羅文君 Lo Wen-chun"
+title                    : "羅文君 Wen-Chun Lo"
 title_separator          : "-"
 name                     : &name "羅文君"
 description              : &description "羅文君個人學術網站——人類學、臺灣史、科技史與檔案研究"

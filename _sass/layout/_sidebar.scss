@@ -307,6 +307,10 @@
     white-space: nowrap;
   }
 
+  li.author__desktop {
+    white-space: normal;   // 地點、單位等較長文字可換行，避免被切掉（如 Academia Sinica）
+  }
+
   a {
     display: block;
     margin-bottom: 5px;

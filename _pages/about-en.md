@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "羅文君 Lo Wen-chun"
+title: "About Wen-Chun"
 author_profile: true
 ---
 
@@ -19,8 +19,6 @@ author_profile: true
 ============================================================
 -->
 
-With over six years of experience in project management, I am skilled in grant applications, research report writing, team coordination, and budget management. I also excel at building long-term collaborative relationships with local communities and academic experts. My work spans anthropology, Taiwan history, history of science and technology, and archival research — I am drawn to new knowledge across disciplines and to translating it across fields.
-
 Publications
 ======
 
@@ -30,7 +28,7 @@ Books
 ------
 
 ### Historical Materials of the Forest Management Project Division Surveys: Reserved and Quasi-Reserved Forest Maps and Charts (Vols. 1–3)
-*日治時期森林計畫事業區分調查史料（上・中・下）*　·　Kuang-chi Hung (ed.); introduction by Kuang-chi Hung, Ko-Hua Yap, and An-Hsi Cheng; GIS cartography by Wen-chun Lo et al. Taipei: Forestry and Nature Conservation Agency, Ministry of Agriculture (2026). ISBN 978-626-7651-64-3. (in Chinese)
+*日治時期森林計畫事業區分調查史料（上・中・下）*　·　Kuang-chi Hung (ed.); introduction by Kuang-chi Hung, Ko-Hua Yap, and An-Hsi Cheng; GIS cartography by Wen-Chun Lo et al. Taipei: Forestry and Nature Conservation Agency, Ministry of Agriculture (2026). ISBN 978-626-7651-64-3. (in Chinese)
 
 Book Chapters
 ------
