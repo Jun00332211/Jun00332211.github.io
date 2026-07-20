@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "水庫建設中的「基礎建設」：外籍工程師與石建會的初步接軌"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: book_chapters
+permalink: /publication/2023-shihmen-reservoir
+excerpt: '收於顧雅文主編《石門水庫歷史檔案中的人與事》，從石建會檔案探討戰後石門水庫建設中外籍工程師與在地工程機構的接軌過程。'
+date: 2023-06-01
+venue: '《石門水庫歷史檔案中的人與事》'
+paperurl: 'https://gpi.culture.tw/books/1011200580'
+citation: '羅文君（2023）。〈水庫建設中的「基礎建設」：外籍工程師與石建會的初步接軌〉。收於顧雅文主編，《石門水庫歷史檔案中的人與事》，頁 128–155。桃園：經濟部水利署北區水資源分署。'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本篇為專書《石門水庫歷史檔案中的人與事》的第三篇第一章。該書由中研院臺史所團隊透過檔案學、歷史學與土木工程學的角度，重新梳理《石建會檔案》，重現石門水庫從構思到建設的歷史，並挖掘檔案中工程師、地方居民與民間團體的故事。

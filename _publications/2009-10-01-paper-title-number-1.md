@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "由縫隙出發的歷史：旮旯牌聚落的形成與離散"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-galapai-history
+excerpt: '以日治時期進入蕃界定居的漢人社群旮旯牌為對象，探討居民如何在山地治理與資本開發的結構縫隙間求生。本文獲台灣人類學與民族學學會 2018 年李亦園先生紀念獎學金。'
+date: 2021-06-01
+venue: '臺大歷史學報　第 67 期'
+paperurl: 'https://www.airitilibrary.com/Article/Detail?DocID=10128514-202106-202108230004-202108230004-107-169'
+citation: '羅文君（2021）。〈由縫隙出發的歷史：旮旯牌聚落的形成與離散〉。《臺大歷史學報》，第 67 期，頁 107–169。'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+以日治時期進入蕃界定居之漢人社群「旮旯牌」為研究對象，透過史料與田野材料，重構因學科分野而被遺落的人群生活樣貌，並探究其居民如何在制度與經濟開發計畫的結構縫隙間求生。旮旯牌位於今新竹縣尖石鄉嘉樂村內。
+
+本文獲台灣人類學與民族學學會 2018 年李亦園先生紀念獎學金。（《臺大歷史學報》為 THCI 期刊）

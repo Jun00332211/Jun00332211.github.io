@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "山地鄉的平地客家人—以新竹縣尖石鄉前山地區客家住民之經濟活動為核心之研究"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: thesis
+permalink: /publication/2017-master-thesis
+excerpt: '碩士論文。以新竹縣尖石鄉前山地區的旮旯牌與尖石兩個客家聚落為對象，運用鑲嵌理論討論移居聚落的經濟活動與社會關係。本論文獲客委會 107 年度客家研究優良博碩士論文獎助（最高榮譽）。'
+date: 2017-07-01
+venue: '國立政治大學民族學系　碩士論文'
+paperurl: 'https://hdl.handle.net/11296/f4jbrx'
+citation: '羅文君（2017）。《山地鄉的平地客家人—以新竹縣尖石鄉前山地區客家住民之經濟活動為核心之研究》。碩士論文，國立政治大學民族學系（指導教授：官大偉）。'
 ---
+以新竹縣尖石鄉前山地區的旮旯牌與尖石兩個客家聚落的經濟活動為研究範疇，透過史料爬梳與深度訪談，建構兩個移居聚落的形成過程、產業類型與社會關係網絡，並運用鑲嵌理論（embeddedness）討論經濟活動與社會關係如何交織互動。全文突破以「原漢二元」架構解釋原鄉經濟關係的模式，對鑲嵌理論的實際運用提出新的思考方向。
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+本論文獲客家委員會 107 年度客家研究優良博碩士論文獎助（博碩士論文最高榮譽，獎助 10 萬元）。

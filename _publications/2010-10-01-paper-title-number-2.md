@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "由縫隙出發的歷史：旮旯牌聚落的形成與離散（專書篇章）"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: book_chapters
+permalink: /publication/2022-galapai-book-chapter
+excerpt: '收於羅烈師主編《開山打林？逆寫北臺灣客庄形成史》，為旮旯牌研究的專書篇章版本。'
+date: 2022-06-01
+venue: '《qmul rhzyal Tayal？開山打林？逆寫北臺灣客庄形成史》'
+paperurl: 'https://www.govbooks.com.tw/books/136330'
+citation: '羅文君（2022）。〈由縫隙出發的歷史：旮旯牌聚落的形成與離散〉。收於羅烈師主編，《qmul rhzyal Tayal？開山打林？逆寫北臺灣客庄形成史》。新竹：國立陽明交通大學。'
 ---
+本篇為旮旯牌聚落研究的專書篇章版本，收錄於羅烈師主編、由客家、原住民族六位作者共同撰寫的《開山打林？逆寫北臺灣客庄形成史》一書，從方志書寫、集體記憶與空間聚落等視角，重新檢視北臺灣原客交界聚落的歷史。
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+與《臺大歷史學報》的期刊論文為同一研究的不同發表版本。
