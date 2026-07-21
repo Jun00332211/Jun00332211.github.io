@@ -43,7 +43,7 @@ Journal Articles
 ------
 
 ### A History from Within: A Case Study of the Galapai Settlement in Jianshi Township, Hsinchu County
-*由縫隙出發的歷史：旮旯牌聚落的形成與離散*　·　Historical Inquiry (《臺大歷史學報》), No. 67 (2021), pp. 107–169 (THCI). [Full text](https://www.airitilibrary.com/Article/Detail?DocID=10128514-202106-202108230004-202108230004-107-169)
+*由縫隙出發的歷史：旮旯牌聚落的形成與離散*　·　Historical Inquiry (《臺大歷史學報》), No. 67 (2021), pp. 107–169. (THCI) [Full text](https://www.airitilibrary.com/Article/Detail?DocID=10128514-202106-202108230004-202108230004-107-169)
 
 ### Beinanzu Kasavakan Jianhe buluo qingnian huisuo jianshi yu diaoke muzhu wenzi diaocha baogao (A Brief History of the Kasavakan Palakwan in Jianhe and a Cultural-Heritage Survey Report on Its Carved Wooden Posts)
 *卑南族 Kasavakan 建和部落青年會所簡史與雕刻木柱文資調查報告*　·　Field Materials, Institute of Ethnology, Academia Sinica, No. 29 (2023), pp. 99–138. [PDF](https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Siteid=530164240637641451&Menuid=530404247153600426&TB=PeriodicalsContent&CN=PCID&fd=Periodicals_PDF&CNV=PDF&Pname=FM29-03.pdf&MSID=3)
@@ -63,7 +63,7 @@ Conference Papers
 ### A History from Within: A Case Study of the Galapai Settlement in Jianshi Township, Hsinchu County
 *由縫隙出發的歷史：以新竹縣尖石鄉的旮旯牌聚落為例*　·　Paper presented at the 2019 Second Workshop of the Taiwan Economic History Group, Social and Economic History Group, Institute of Taiwan History, Academia Sinica, June 28, 2019, Taipei.
 
-### Xiangguan hechu—shandi xiang li de Kejiaren (Where Is Home? Hakka People in a Mountain Indigenous Township)
+### Xiangguan hechu—shandi xiang li de Kejiaren (Out of Place: Hakka People in the Indigenous Township)
 *鄉關何處—山地鄉裡的客家人*　·　Paper presented at the 2018 Annual Conference of the Taiwan Society for Anthropology and Ethnology: Transcendence and Return (co-organized by the Center for Austronesian Studies and the Department of Public and Cultural Affairs, National Taitung University), Oct 6–7, 2018, Taitung.
 
 ### Non-indigenous People in Indigenous Township: Retailers in the Front Mountain of Jianshi Township, 1950s

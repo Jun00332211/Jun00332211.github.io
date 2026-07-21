@@ -47,7 +47,7 @@ redirect_from:
 《民族學研究所資料彙編》第 29 期（2023），頁 99–138。[全文](https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Siteid=530164240637641451&Menuid=530404247153600426&TB=PeriodicalsContent&CN=PCID&fd=Periodicals_PDF&CNV=PDF&Pname=FM29-03.pdf&MSID=3)
 
 ### 由縫隙出發的歷史：旮旯牌聚落的形成與離散
-《臺大歷史學報》第 67 期（2021），頁 107–169。[全文](https://www.airitilibrary.com/Article/Detail?DocID=10128514-202106-202108230004-202108230004-107-169)
+《臺大歷史學報》第 67 期（2021），頁 107–169。(THCI) [全文](https://www.airitilibrary.com/Article/Detail?DocID=10128514-202106-202108230004-202108230004-107-169)
 
 會議論文
 ------
