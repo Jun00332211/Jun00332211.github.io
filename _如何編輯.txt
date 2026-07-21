@@ -27,7 +27,8 @@
    →  _pages/about-en.md
 
 3. 左邊側欄（姓名、簡介、地點、單位、Email、GitHub、Instagram）
-   →  _data/profile.yml
+   →  中文頁：_data/profile.yml
+   →  英文頁：_data/profile_en.yml　（英文姓名、簡介等）
 
 4. 上方那兩個「中文 / English」按鈕的文字
    →  _data/navigation.yml

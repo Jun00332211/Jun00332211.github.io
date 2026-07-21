@@ -51,11 +51,12 @@
 
 .page__content {
 
-  /* 大區塊（著作、經歷…）：上方加分隔線與間距，讓段落之間清楚分開 */
+  /* 大區塊（著作、經歷…）：深橘色、上方加分隔線與間距 */
   h1 {
     margin-top: 3rem;
     padding-top: 1.3rem;
     border-top: 1px solid rgba(255, 255, 255, 0.18);
+    color: var(--global-h1-color);
   }
   h1:first-of-type {
     margin-top: 0.5rem;
